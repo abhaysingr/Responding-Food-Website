@@ -34,6 +34,6 @@ You need a web browser to run this project.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/abhaysinghrathore-dev/Foodie-Website.git
+    git clone https://github.com/abhaysingr/Responding-Food-Website.git
     ```
 2.  Open `index.html` in your browser.

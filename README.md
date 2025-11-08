@@ -1,4 +1,4 @@
-# Responding-Food-Websit
+# Responding-Food-Website
 
 This is a simple and elegant food delivery website template built with HTML, CSS, and JavaScript.
 
